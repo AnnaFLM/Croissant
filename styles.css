@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+  text-align: center;
+}
+
+a {
+  color: green;
+  margin: 10px;
+}
+
+.email-link {
+  color: red;
+  font-size: 30px;
+}
+
+.navigation-links {
+  margin-top: 50px;
+}
+
+img {
+  margin-bottom: 20px;
+}
