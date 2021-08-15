@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.navigation-links a {
+  color: green;
+  margin: 10px;
+}
+
+.navigation-links {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.email-link {
+  color: red;
+  font-size: 30px;
+  display: block;
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 500px;
+  border-radius: 5px;
+  display: block;
+  margin: 30px auto;
+}
